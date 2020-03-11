@@ -5,6 +5,15 @@ namespace ConsoleApp.PostgreSQL
 {
     public class PiotContext : DbContext
     {
+        public PiotContext()
+        {
+        }
+
+        public PiotContext(DbContextOptions<PiotContext> options)
+    :           base(options)
+        {
+        }
+
         public DbSet<Customer> Customers { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

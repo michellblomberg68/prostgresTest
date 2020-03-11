@@ -29,3 +29,9 @@ C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1
 C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\GIT\prostgresTest\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
